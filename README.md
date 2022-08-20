@@ -1,5 +1,5 @@
 # Rent X
-Aplicativo feito no treinamento do ignite na trilha de react-native.
+Aplicativo de aluguel de carros.
 
 ### Conceitos usados durante a construção da aplicação.
 ###### Integração com api
